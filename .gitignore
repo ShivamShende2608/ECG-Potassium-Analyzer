@@ -1,9 +1,8 @@
 # Mobile
 mobile/node_modules/
-mobile/.expo/
-mobile/.env
 mobile/android/
-mobile/ios/
+mobile/.expo/
+mobile/package-lock.json
 
 # Backend
 backend/__pycache__/
