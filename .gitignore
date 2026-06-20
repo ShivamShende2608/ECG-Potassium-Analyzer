@@ -1,0 +1,14 @@
+# Mobile
+mobile/node_modules/
+mobile/.expo/
+mobile/.env
+mobile/android/
+mobile/ios/
+
+# Backend
+backend/__pycache__/
+backend/*.pth
+backend/venv/
+backend/.env
+backend/*.pyc
+backend/*.egg-info/
