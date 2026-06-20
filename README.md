@@ -18,6 +18,4 @@ detection from ECG images in CKD patients.
 
 
 
-## ⚠️ Note
-Model weights (`best_efficientnetb4.pth`) not included due to 
-size. Contact for access.
+
